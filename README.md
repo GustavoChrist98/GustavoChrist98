@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=OCR+A&pause=1000&color=FFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Gus)](https://git.io/typing-svg)
+# About me
 
-Trabalho como desenvolvedor web fullstack no Brasil desde 2021.
-Atualmente mantenho projetos JavaScript envolvendo IoT e Microsserviços;
-
-Colaborei em projetos acadêmicos com as linguagens Python e Java. Entre estes, está um
-[portal de análise de sentimentos](https://github.com/howardroatti/sentiment-analysis-platform-hc) nas redes sociais a respeito das mudanças climáticas.
-
-[![](https://skillicons.dev/icons?i=nodejs,vue,nuxt,vuetify,nest,prisma,python,java,postgres,redis&perline=5)](https://skillicons.dev)
+Young and promising Software Developer with 2+ years of experience shaping innovative
+and creative solutions for front-end and back-end systems. Proven ability to refactor and
+improve performance of legacy code and SQL database queries (specifically PostgreSQL
+databases), enhancing performance by 40%. Proficient in JavaScript and Node Js
+environment, with a huge knowledge of frameworks like VueJs (with NuxtJs) and
+NestJs. Finishing my studies in a bachelor's degree in Computer Science, ready to drive
+impactful software development. Eager to contribute in a collaborative, tech-driven
+setting.
